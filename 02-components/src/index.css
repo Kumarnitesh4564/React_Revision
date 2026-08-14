@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  height: 400px;
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  background-color: bisque;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.nav {
+  width: 400px;
+  height: 40px;
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: red;
+  font-size: medium;
+  border: 1px solid black;
+  border-radius: 10px;
+}
